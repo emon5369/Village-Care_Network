@@ -3,7 +3,7 @@
 ## Project Overview
 Village-Care Network is a Java-based social development platform designed to bridge the gap between donors, volunteers, and rural communities. The system empowers underprivileged villagers by providing resources, opportunities, and direct connections to those who can help.
 
-The platform aims to alleviate poverty and foster sustainable development through a transparent donation system, effective volunteer management, and a user-friendly interface tailored to the needs of all stakeholders.
+The platform aims to alleviate poverty and foster sustainable development through a transparent donation system, effective volunteer management, and a user-friendly interface tailored to the needs of the villagers.
 
 ---
 
@@ -33,7 +33,7 @@ The platform aims to alleviate poverty and foster sustainable development throug
 ### Tools and Frameworks:
 - **Programming Language**: Java
 - **Development Environment**: Apache NetBeans
-- **Database**: SQL for secure and efficient data management
+- **Database**: MySQL for secure and efficient data management
 - **UI Framework**: Java Swing for a responsive and interactive user interface
 - **Authentication**: Secure user login and role-based dashboards
 
@@ -49,7 +49,7 @@ The platform aims to alleviate poverty and foster sustainable development throug
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-repo/village-care-network.git
+   git clone https://github.com/your-repo/villagecare-network.git
    ```
 
 2. **Configure Database**:
@@ -93,4 +93,4 @@ Contributions are welcome! Please follow these steps:
 - Takia Nawrin
 - Monira Akter
 
-Submitted as part of the Design Project - I (CSE2200) at the University of Liberal Arts Bangladesh.
+Submitted this project as part of the Design Project - I (CSE2200) course at the University of Liberal Arts Bangladesh.
